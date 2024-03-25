@@ -1,4 +1,6 @@
 
+# RNChatbot
+
 ## Screenshots
 
 <div style="display: flex;flex-wrap: wrap; justify-content: space-around;">
@@ -115,4 +117,3 @@ RNChatbot aims to redefine the chatbot experience by seamlessly integrating stat
   <li>Ensure that your OpenAI API key is properly configured in the <code>.env</code> file before running the application.</li>
 </ul>
 
-# RNChatbot
