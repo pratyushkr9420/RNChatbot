@@ -1,3 +1,12 @@
+
+## Screenshots
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <img src="https://github.com/pratyushkr9420/RNChatbot/blob/main/screenshots/IMG_0993.PNG" width="300" height="600" alt="Screenshot 1">
+  <img src="https://github.com/pratyushkr9420/RNChatbot/blob/main/screenshots/IMG_0994.PNG" width="300" height="600" alt="Screenshot 2">
+  <img src="https://github.com/pratyushkr9420/RNChatbot/blob/main/screenshots/IMG_0995.PNG" width="300" height="600" alt="Screenshot 3">
+</div>
+
 ## Introduction
 
 RNChatbot is a project aimed at creating a sophisticated chatbot using React Native for seamless cross-platform compatibility. Leveraging the power of Expo for app setup, this project integrates advanced AI capabilities from OpenAI's text completion API powered by GPT-3.5-turbo and image generation API utilizing the DALL-E-3 model.
