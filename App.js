@@ -178,7 +178,7 @@ export default function App() {
           <View style={{ flex: 1, paddingLeft: 10 }}>
             <TextInput
               value={prompt}
-              placeholder="Enter your prompt"
+              placeholder="Type your prompt here"
               onChangeText={(text) => setPrompt(text)}
             />
           </View>
