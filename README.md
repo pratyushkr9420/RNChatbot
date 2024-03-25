@@ -1,7 +1,7 @@
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/pratyushkr9420/RNChatbot/blob/main/screenshots/IMG_0993.PNG" width="300" height="600" alt="Screenshot 1">
   <img src="https://github.com/pratyushkr9420/RNChatbot/blob/main/screenshots/IMG_0994.PNG" width="300" height="600" alt="Screenshot 2">
   <img src="https://github.com/pratyushkr9420/RNChatbot/blob/main/screenshots/IMG_0995.PNG" width="300" height="600" alt="Screenshot 3">
