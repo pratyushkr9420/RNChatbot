@@ -13,3 +13,5 @@ module.exports = function (api) {
     ],
   };
 };
+
+// finished babel configuration
